@@ -15,3 +15,8 @@ The internet is large, but not unlimited. To train the next generation of AI, we
 **_Usage_**:
 
    > main.py --name='(name of podcast, or 'random' for random)' --number=(number of episodes to download) "
+
+
+**_Description_**
+
+PodTextify is the worlds first podcast-to-database program. The world is running out of high accuracy, human-written text to train LLM models on. With PodTextify, you can pass in a podcast name and download an arbitrary amount of episodes from a scraped iTunes listing directory. From these downloads, the program converts them to text files, cleans and grammar checks them, and outputs them into a model dataset parquet file.
