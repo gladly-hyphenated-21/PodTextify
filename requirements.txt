@@ -1,0 +1,14 @@
+wget
+requests
+feedparser
+json
+pydub
+pandas
+re
+datasets
+textblob
+language_tool_python
+vosk
+wave
+random
+
